@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 APP_ID = "4f3406cd"
-API_KEY = "4a36817c0933073139a73fc712b15759"
+API_KEY = "secret"
 
 headers = {
     "x-app-id": APP_ID,
